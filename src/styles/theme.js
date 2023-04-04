@@ -1,3 +1,5 @@
+import * as styled from "styled-components"
+
 export default {
   colors: {
     background900: "#232129",

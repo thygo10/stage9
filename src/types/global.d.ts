@@ -1,1 +1,4 @@
-declare module './styles/global.js';
+declare module './global.js' {
+  const content: any;
+  export default content;
+}
