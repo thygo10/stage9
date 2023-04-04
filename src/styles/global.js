@@ -18,7 +18,7 @@ body{
   -webkit-font-smoothing: antialiased;
 }
 
-a,{
+a{
   text-decoration: none;
 }
 
